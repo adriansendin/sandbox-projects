@@ -7,7 +7,7 @@ This project sets up a minimal frontend-only chatbot using the @xenova/transform
 🛠️ Step 1: Project Setup (Installation)
 Open your terminal or PowerShell and navigate to your working folder:
 
-cd C:\Projects\ai-projects\llm_local3
+cd C:\Projects\sandbox-projects\llm_local3
 
 Initialize a Node.js project:
 
