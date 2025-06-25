@@ -1,0 +1,16 @@
+{
+  "name": "llm_local3",
+  "version": "1.0.0",
+  "description": "🧠 Local LLM Chat Demo (using Transformers.js)\r A lightweight local web app that lets you ask questions or generate text using a Transformers.js model (GPT‑2 by default) entirely in your browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2"
+  }
+}
